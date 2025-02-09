@@ -1,47 +1,33 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Build a Network Diagram Lab</span>
 </h1>
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module. Introduce the lab. What will the students build in this lab?
+By the end of this module, students will be able to create accurate and clear network diagrams using draw.io, a powerful diagramming tool, by systematically identifying key components, logically representing their connections, and effectively communicating the network's structure and functionality.
 
 ## Content
 
-- [Setup](./setup/README.md)
-- [Exercise](./exercise/README.md)
+- [Getting Familiar with Diagramming Tools](./getting-familiar/README.md)
+- [Identify Your Key Network Components](./identify-key-components/README.md)
+- [Begin Your Network Diagram Draft](./begin-your-draft/README.md)
+- [Reviewing Your Completed Diagram](./reviewing-your-diagram/README.md)
 
 ## Internal
 
 ### Prerequisites
 
-- tktk
+- None
 
 ### Time to complete
 
-Estimated time to complete core lab exercise: **tktk min**
-
-### Starter code
-
-tktk If there is not a starter code repo that students will fork and clone to start this lab, then this section and all of its content should be removed.
-
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Solution code
-
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Deployed sites
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](https://generalassemb.ly/tktk)
+Estimated time to complete core lab exercise: **90 min**
 
 ### Course landing pages
 
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/tktk-course-acronym.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/fallback.html)
+- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/network-diagram-lab/canvas-landing-pages/itb.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/network-diagram-lab/canvas-landing-pages/fallback.html)
 
 ### Resources
 
