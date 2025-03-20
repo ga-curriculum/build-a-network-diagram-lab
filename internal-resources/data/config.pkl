@@ -14,31 +14,30 @@ repo {
   // This name is shown in the header nav to navigate users home
   friendlyName = "Build a Network Diagram Lab"
   // This must match the repo name as it appears on GitHub exactly
-  name = "network-diagram-lab"
+  name = "build-a-network-diagram-lab"
   type = "Lab"
 }
 
 courses {
   new {
     // Do not remove this fallback course!
+    name = "itb"
+    microlessons {
+      mls.getFamiliarWithDiagrammingTools
+      mls.identifyYourKeyNetworkComponents
+      mls.beginYourNetworkDiagramDraft
+      mls.reviewYourCompletedDiagram
+    }
+  }
+  new {
+    // Do not remove this fallback course!
     name = "fallback"
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.gettingFamiliar
-      mls.identifyKeyComponents
-      mls.beginYourDraft
-      mls.reviewingYourDiagram
-    }
-  }
-    new {
-    // Do not remove this fallback course!
-    name = "itb"
-    microlessons {
-      // Add microlessons here, in the order they should be delivered
-      mls.gettingFamiliar
-      mls.identifyKeyComponents
-      mls.beginYourDraft
-      mls.reviewingYourDiagram
+      mls.getFamiliarWithDiagrammingTools
+      mls.identifyYourKeyNetworkComponents
+      mls.beginYourNetworkDiagramDraft
+      mls.reviewYourCompletedDiagram
     }
   }
 }

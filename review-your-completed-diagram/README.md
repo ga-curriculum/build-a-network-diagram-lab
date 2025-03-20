@@ -1,6 +1,6 @@
 <h1>
   <span class="headline">Build a Network Diagram Lab</span>
-  <span class="subhead">Reviewing Your Completed Diagram</span>
+  <span class="subhead">Review Your Completed Diagram</span>
 </h1>
 
 **Learning objective:** By the end of this lesson, students will be able to review and refine their network diagram to ensure it is accurate, clear, and effectively communicates the structure and functionality of General Co.'s network.

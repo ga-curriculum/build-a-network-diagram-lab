@@ -5,7 +5,7 @@
   },
   "repo": {
     "friendlyName": "Build a Network Diagram Lab",
-    "name": "network-diagram-lab",
+    "name": "build-a-network-diagram-lab",
     "type": "Lab",
     "about": "",
     "starterCode": "",
@@ -14,14 +14,14 @@
   },
   "courses": [
     {
-      "name": "fallback",
+      "name": "itb",
       "courseAcronym": "",
       "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Getting Familiar with Diagramming Tools",
-          "dirName": "getting-familiar",
+          "friendlyName": "Get Familiar with Diagramming Tools",
+          "dirName": "get-familiar-with-diagramming-tools",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -31,7 +31,7 @@
         },
         {
           "friendlyName": "Identify Your Key Network Components",
-          "dirName": "identify-key-components",
+          "dirName": "identify-your-key-network-components",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -41,7 +41,7 @@
         },
         {
           "friendlyName": "Begin Your Network Diagram Draft",
-          "dirName": "begin-your-draft",
+          "dirName": "begin-your-network-diagram-draft",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -50,8 +50,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Reviewing Your Completed Diagram",
-          "dirName": "reviewing-your-diagram",
+          "friendlyName": "Review Your Completed Diagram",
+          "dirName": "review-your-completed-diagram",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -83,14 +83,14 @@
       "isActivityTimeShown": true
     },
     {
-      "name": "itb",
+      "name": "fallback",
       "courseAcronym": "",
       "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Getting Familiar with Diagramming Tools",
-          "dirName": "getting-familiar",
+          "friendlyName": "Get Familiar with Diagramming Tools",
+          "dirName": "get-familiar-with-diagramming-tools",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -100,7 +100,7 @@
         },
         {
           "friendlyName": "Identify Your Key Network Components",
-          "dirName": "identify-key-components",
+          "dirName": "identify-your-key-network-components",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -110,7 +110,7 @@
         },
         {
           "friendlyName": "Begin Your Network Diagram Draft",
-          "dirName": "begin-your-draft",
+          "dirName": "begin-your-network-diagram-draft",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -119,8 +119,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Reviewing Your Completed Diagram",
-          "dirName": "reviewing-your-diagram",
+          "friendlyName": "Review Your Completed Diagram",
+          "dirName": "review-your-completed-diagram",
           "type": "Content",
           "skill": "",
           "learningObjective": "",

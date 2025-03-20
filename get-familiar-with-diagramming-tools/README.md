@@ -1,6 +1,6 @@
 <h1>
   <span class="headline">Build a Network Diagram Lab</span>
-  <span class="subhead">Getting Familiar with Diagramming Tools</span>
+  <span class="subhead">Get Familiar with Diagramming Tools</span>
 </h1>
 
 **Learning objective:** By the end of this lesson, students will be able to navigate the basic features and functions of draw.io for creating network diagrams.

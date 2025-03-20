@@ -2,30 +2,30 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-gettingFamiliar = new Template.Microlesson {
-  friendlyName = "Getting Familiar with Diagramming Tools"
-  dirName = "getting-familiar"
+getFamiliarWithDiagrammingTools = new Template.Microlesson {
+  friendlyName = "Get Familiar with Diagramming Tools"
+  dirName = "get-familiar-with-diagramming-tools"
   type = "Content"
   videoUrl = ""
 }
 
-identifyKeyComponents = new Template.Microlesson {
+identifyYourKeyNetworkComponents = new Template.Microlesson {
   friendlyName = "Identify Your Key Network Components"
-  dirName = "identify-key-components"
+  dirName = "identify-your-key-network-components"
   type = "Content"
   videoUrl = ""
 }
 
-beginYourDraft = new Template.Microlesson {
+beginYourNetworkDiagramDraft = new Template.Microlesson {
   friendlyName = "Begin Your Network Diagram Draft"
-  dirName = "begin-your-draft"
+  dirName = "begin-your-network-diagram-draft"
   type = "Content"
   videoUrl = ""
 }
 
-reviewingYourDiagram = new Template.Microlesson {
-  friendlyName = "Reviewing Your Completed Diagram"
-  dirName = "reviewing-your-diagram"
+reviewYourCompletedDiagram = new Template.Microlesson {
+  friendlyName = "Review Your Completed Diagram"
+  dirName = "review-your-completed-diagram"
   type = "Content"
   videoUrl = ""
 }
