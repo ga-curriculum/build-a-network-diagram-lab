@@ -31,8 +31,8 @@ Estimated time to complete core lab exercise: **90 min**
 
 ### Course landing pages
 
-- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/build-a-network-diagram-lab/canvas-landing-pages/itb.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/build-a-network-diagram-lab/canvas-landing-pages/fallback.html)
+- [ITB - IT Bootcamp](https://ga-curriculum.github.io/build-a-network-diagram-lab/canvas-landing-pages/itb.html)
+- [Fallback](https://ga-curriculum.github.io/build-a-network-diagram-lab/canvas-landing-pages/fallback.html)
 
 ### Resources
 
@@ -44,4 +44,4 @@ Estimated time to complete core lab exercise: **90 min**
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback.html)!**
